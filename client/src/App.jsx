@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
+import { FaInstagram, FaTwitter, FaFacebook, FaLinkedin } from "react-icons/fa";
 import { Link, Route, Switch, useLocation } from "wouter";
 import {
   ArrowRight, IndianRupee,
@@ -163,12 +164,20 @@ function CommunityFooter() {
           <Logo compact />
           <p className="footer-note">Made for clearer field decisions.</p>
         </div>
-        <div className="social-links" aria-label="Social links">
-          <a href="https://instagram.com" target="_blank" rel="noreferrer">Instagram</a>
-          <a href="https://twitter.com" target="_blank" rel="noreferrer">Twitter</a>
-          <a href="https://facebook.com" target="_blank" rel="noreferrer">Facebook</a>
-          <a href="https://linkedin.com" target="_blank" rel="noreferrer">LinkedIn</a>
-        </div>
+       <div className="social-links" aria-label="Social links">
+  <a href="https://instagram.com" target="_blank" rel="noreferrer" aria-label="Instagram">
+    <FaInstagram />
+  </a>
+  <a href="https://twitter.com" target="_blank" rel="noreferrer" aria-label="Twitter">
+    <FaTwitter />
+  </a>
+  <a href="https://facebook.com" target="_blank" rel="noreferrer" aria-label="Facebook">
+    <FaFacebook />
+  </a>
+  <a href="https://linkedin.com" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+    <FaLinkedin />
+  </a>
+</div>
       </div>
     </footer>
   );
