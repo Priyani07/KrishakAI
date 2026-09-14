@@ -46,10 +46,9 @@ import { IRRIGATION_STATUS, buildIrrigationRecommendation, createPlannerTask, ge
 import { filterReferenceSeeds, getCropReferenceGuidance } from "./cropSeedReferenceRegistry.js";
 
 const mark = "krishak-mark (2).svg";
-const heroImage = "/manus-storage/krishak-hub-hero_83017072.webp";
-const fieldImage = "/manus-storage/krishak-field-detail_05c7e3a9.webp";
-const networkTexture = "/manus-storage/krishak-network-texture_7aee977c.webp";
-const WORLD_MAP_VIEWPORT = Object.freeze({ lat: 20.5937, lng: 78.9629 });
+const heroImage = "/images/krishak-hub-hero_83017072.jpg";
+const fieldImage = "/images/krishak-field-detail_05c7e3a9.jpg";
+const networkTexture = "/images/krishak-network-texture_7aee977c.jpg";
 
 const navItems = [
   { href: "/", label: "Home", farmerOnly: false },
