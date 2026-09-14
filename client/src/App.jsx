@@ -239,7 +239,7 @@ function MainHub() {
     <PageFrame footer="agricultural">
       <section className="hub-hero" style={{ backgroundImage: `linear-gradient(90deg, rgba(5, 26, 18, .76), rgba(5, 26, 18, .32)), url(${heroImage})` }}>
         <div className="content-width hub-hero-content">
-          <p className="eyebrow eyebrow--light">KRISHAK / MAIN FIELD ATLAS</p>
+          <p className="eyebrow eyebrow--light">KRISHAK / Smart Agriculture Platform</p>
           <h1>Make the next field decision with better context.</h1>
           <p className="hero-copy">A connected starting point for planning, weather, crop health, soil insight, and farmer support.</p>
           <div className="hero-actions">
