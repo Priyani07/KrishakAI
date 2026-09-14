@@ -1,0 +1,10 @@
+# Original Manus Krishak assets. Do not replace, crop, modify, regenerate, delete, move, or rename unless the user explicitly requests an image change.
+# UI mapping recovered from the original Manus ZIP:
+# krishak-mark_b9b95f65.webp             -> client/index.html favicon
+# krishak-hub-hero_83017072.webp         -> main hub hero, home image stack, and Community hero
+# krishak-field-detail_05c7e3a9.webp      -> home image stack and field-detail feature image
+# krishak-network-texture_7aee977c.webp   -> agricultural footer background texture
+7c22d7213b1815cb77affc365089f91652e14115135307cd2ca79ef143b84c0c  krishak-mark_b9b95f65.webp
+b1cbba8cc4cc885738b493677575c83d2e663ae7230eb3fb777882c3a3d06571  krishak-hub-hero_83017072.webp
+621e450a84d79f6ec446f573e7efb73e9b32b9be9d6173de47e0811210b35a7c  krishak-field-detail_05c7e3a9.webp
+5de9ddaf50db452616bc3af4a4abec726e03b00fdbac410b4514c591072176d9  krishak-network-texture_7aee977c.webp
